@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sejalshh07" target="blank"><img src="https://img.shields.io/twitter/follow/sejalshh07?logo=twitter&style=for-the-badge" alt="sejalshh07" /></a> </p>
 
-- 🔭 I’m currently working on **Interprocess Communication**
+- 🔭 I’m currently working on **Cloud and Devops**
 
-- 🌱 I’m currently learning **Python for data science**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **sejalshh07@gmail.com**
 
