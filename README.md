@@ -2,7 +2,6 @@
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal707&label=Profile%20views&color=0e75b6&style=flat" alt="sejal707" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sejalshh07" target="blank"><img src="https://img.shields.io/twitter/follow/sejalshh07?logo=twitter&style=for-the-badge" alt="sejalshh07" /></a> </p>
